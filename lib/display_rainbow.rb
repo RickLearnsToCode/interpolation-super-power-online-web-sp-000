@@ -8,4 +8,3 @@ end
 sendit = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 display_rainbow(sendit)
-
